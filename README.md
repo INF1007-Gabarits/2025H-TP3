@@ -1,5 +1,5 @@
 # TP3 - Analyse de données sur les pingouins avec des librairies scientifiques
-![image](https://github.com/user-attachments/assets/4f0dfd1d-32f7-4b42-a103-c812bc8433bd)
+![image](imgs/penguins.png)
 
 ## Directives
 :alarm_clock: Date de remise : Le 16 mars 2025
@@ -70,36 +70,36 @@ La section suivante fournit des exemples de résultats attendus pour chaque exer
 #### Partie 1 : Chargement du DataFrame avec Pandas
 Pour la partie 1, votre DataFrame initial devrait ressembler à ceci : 
 
-![image](https://github.com/user-attachments/assets/9709dc2e-9a8b-4ea1-a7ef-c56c27fadb6b)
+![image](imgs/example1.png)
 
 Attention : l'affichage ne devrait PAS ressembler à ceci : 
 
-![image](https://github.com/user-attachments/assets/df00a4ac-c0a7-4478-8957-34812020ccf8)
+![image](imgs/example2.png)
 
 Les statistiques du DataFrame devraient ressembler à ceci :
 
-![image](https://github.com/user-attachments/assets/6a6621aa-2db2-4cfd-995b-df866ba05290)
+![image](imgs/example3.png)
 
 #### Partie 2 : Affichage de graphiques avec Matplotlib et Seaborn
 Voici un exemple de bonne solution pour le graphique avec les boxplots : 
 
-![image](https://github.com/user-attachments/assets/e8feedab-786c-41a6-937f-b9e0de7a3ac7)
+![image](imgs/example4.png)
 
 
 Voici un exemple de bonne solution pour le graphique avec les nuages de points en "subplots" : 
 
-![image](https://github.com/user-attachments/assets/43104dfb-32da-4462-bebb-e3a5b86118d2)
+![image](imgs/example5.png)
 
 
 #### Partie 3 : Affichage d'un nuage de points 3D interactif avec Plotly
 Voici un exemple de bonne solution pour le graphique de nuage de points 3D interactif :
 
-![image](https://github.com/user-attachments/assets/62309e03-2ac0-44dd-ba17-0c29745219f6)
+![image](imgs/example6.png)
 
 #### Partie bonus : Affichage d'une image d'un pingouin
 Voici le résultat attendu pour la question bonus : 
 
-![image](https://github.com/user-attachments/assets/63e4c2cd-4ac9-4391-bd72-cb24b7853a06)
+![image](./photo_pingouin.jpg)
 
 ## Barème de correction
 
